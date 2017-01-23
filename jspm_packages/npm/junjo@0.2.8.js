@@ -1,0 +1,1 @@
+module.exports = require("npm:junjo@0.2.8/lib/Junjo.js");

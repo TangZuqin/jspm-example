@@ -1,0 +1,1 @@
+module.exports = require("npm:u2r@0.1.3/u2r.js");

@@ -1,0 +1,1 @@
+module.exports = require("npm:css-select@1.2.0/index");

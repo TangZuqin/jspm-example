@@ -1,0 +1,1 @@
+module.exports = require("npm:nth-check@1.0.1/index.js");
